@@ -1,0 +1,12 @@
+C:\Users\Web App Develop .Net\Desktop\disha\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+C:\Users\Web App Develop .Net\Desktop\disha\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe
+C:\Users\Web App Develop .Net\Desktop\disha\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.pdb
+C:\Users\Web App Develop .Net\Desktop\disha\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\disha\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.EmployInformation.resources
+C:\Users\Web App Develop .Net\Desktop\disha\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\disha\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\disha\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.exe
+C:\Users\Web App Develop .Net\Desktop\disha\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.pdb
+G:\shohily-c# code\EmployeeInformation\EmployeeInformation\bin\Debug\EmployeeInformation.exe.config
+G:\shohily-c# code\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.exe
+G:\shohily-c# code\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.pdb
